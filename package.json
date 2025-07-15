@@ -1,0 +1,15 @@
+{
+  "name": "3.backend-project",
+  "version": "1.0.0",
+  "description": "a backend project by Chai Aur code Youtube Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "author": "Gupi Debnath",
+  "license": "ISC"
+}
